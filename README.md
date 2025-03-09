@@ -2,7 +2,13 @@
 Сейчас я расскажу, что да как.
 
 # Что это?
-Это - аватары для [Figura mod](https://github.com/FiguraMC/Figura)
+Это - аватары для [Figura mod](https://github.com/FiguraMC/Figura). Это мод который **НЕ** стоит на сервере [Креатé](https://discord.gg/n7wMqpY82r)..
+Этот мод **НЕ** стоит на сервере потому что он полностью клиентский. Это значит что он может стоять только в [сборке](https://modrinth.com/modpack/geekscreate) Minecraft'а.
+Данные аватары предоставят вам возможность освежить анимации своей модельки игрока а также добавляют несколько фич.
+
+Самая главная фича этого аватара - открывающийся рот! Вы можете шевелить губами когда говорите в [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice).
 
 # Как поставить аватары?
-Раздел в разработке...
+1. Перейдите в [Releases](https://github.com/Sh1zok/Kreate-avatars/releases) и скачайте zip-архив последней версии аватаров.
+2. Зайдите в папку .minecraft скачанной [сборки](https://modrinth.com/modpack/geekscreate). Поместите zip-архив в папку .minecraft/figura/avatars
+3. После захода на сервер нажмите esc и в меню нажмите на кнопку с треугольником
