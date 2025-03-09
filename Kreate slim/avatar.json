@@ -1,0 +1,16 @@
+{
+  "name": "Kreaté slim",
+  "description": "§f[V2.1] §6§lKreaté",
+  "authors": ["Sh1zok", "§f§nLibraries", "§bEZAnims", "GSAnimBlend", "SquAPI"],
+  "version": "2.1",
+  "color": "#5555ff",
+  "autoScripts": [
+    "libraries.EZAnims",
+    "libraries.GSAnimBlend",
+    "libraries.SquAssets",
+    "script_Pings",
+    "script_Main",
+    "script_ActionWheel",
+    "script_Mouth"
+    ]
+}
