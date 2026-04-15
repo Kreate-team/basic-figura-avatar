@@ -1,0 +1,22 @@
+{
+  "name": "Кéватар",
+  "description": "§d[GAMMA] §5Базовый аватар Креатé",
+  "authors": [
+    "§l§bSh1zok§r",
+    "§b:www:www.sh1zok.xyz:www:§r",
+    "",
+    "§l§5Креатé§r"
+  ],
+  "color": "#ed7619",
+  "autoAnims": ["player.breath"],
+  "autoScripts": [
+    "scripts/libraries/VoiceChatLib",
+    "scripts/libraries/ActionLists",
+    "scripts/libraries/AnimationTags",
+    "scripts/Synchronization",
+    "scripts/General",
+    "scripts/Model",
+    "scripts/ActionWheel",
+    "scripts/Pings"
+  ]
+}
